@@ -3,6 +3,8 @@ This is a small program that can randomly call learners.
 In the source code, you will see a lot of random generation by the machine. 
 You can totally change these things as per requirement of yours.
 
+![GUI](sampleGUI_mark3.png)
+
 ## Compiling
 To compile/run, just use the PureBasic IDE, that's very fast and
 simple for simple programs like this.
