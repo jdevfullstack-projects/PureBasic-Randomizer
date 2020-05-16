@@ -72,5 +72,3 @@ If OpenWindow(#WINDOW_1, 0, 0, 420, 120, "RANDOM SELECTION BOYS", #WINDOWS_FLAGS
     EndSelect
   Until Event = #PB_Event_CloseWindow
 EndIf
-; IDE Options = PureBasic 5.00 (Windows - x64)
-; EnableXP
