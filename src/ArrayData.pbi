@@ -20,5 +20,3 @@ desiredNumberGirls = 20 - 1
 For x.b = 0 To desiredNumberGirls
   AddElement(stuList()) : stuList() = classNumberGirls(x)
 Next
-; IDE Options = PureBasic 5.00 (Windows - x64)
-; EnableXP
