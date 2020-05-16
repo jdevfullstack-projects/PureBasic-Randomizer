@@ -1,4 +1,4 @@
-# PureBasic Random Data 
+# PureBasic Randomizer
 This is a small program that can randomly call learners. 
 In the source code, you will see a lot of random generation by the machine. 
 You can totally change these things as per requirement of yours.
